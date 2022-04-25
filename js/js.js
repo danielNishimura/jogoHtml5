@@ -202,3 +202,5 @@ function start() { // Inicio da função start()
     } // Fim da função explosao1()
 
 } // Fim da função start
+
+//parei na aula 14
